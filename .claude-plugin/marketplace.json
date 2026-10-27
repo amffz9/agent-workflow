@@ -1,0 +1,17 @@
+{
+  "name": "agent-workflow",
+  "description": "Claude Code skills for planning, delegation, prompting, and Android development.",
+  "owner": { "name": "amffz9" },
+  "plugins": [
+    {
+      "name": "agent-workflow",
+      "source": "./plugins/agent-workflow",
+      "description": "Planning, delegating to subagents, codex second opinions, and prompting guides for Claude and GPT models."
+    },
+    {
+      "name": "android",
+      "source": "./plugins/android",
+      "description": "Android and Kotlin Multiplatform development skills."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "agent-workflow",
+  "version": "0.1.0",
+  "description": "Planning, delegating to subagents, codex second opinions, and prompting guides for Claude and GPT models.",
+  "author": { "name": "amffz9" }
+}

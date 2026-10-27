@@ -1,0 +1,6 @@
+{
+  "name": "android",
+  "version": "0.1.0",
+  "description": "Android and Kotlin Multiplatform development: architecture, Compose UI, builds, data, networking, navigation, performance, security, testing and debugging.",
+  "author": { "name": "amffz9" }
+}
