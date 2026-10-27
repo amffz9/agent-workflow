@@ -5,6 +5,7 @@ Claude Code skills, in two plugins.
 agent-workflow
 - planning: decide how much planning a change needs, then write it as a contract implementation can follow.
 - delegating-to-subagents: when and how to hand work to other agents, and how to brief them.
+- debugging: reproduce, find the real cause, verify; no dismissing failures as flaky or unrelated.
 - codex: reviews and second opinions from the codex CLI.
 - prompting-*: how to write prompts for specific Claude and GPT models.
 
